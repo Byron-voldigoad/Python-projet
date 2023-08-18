@@ -1,0 +1,6 @@
+nom MOI	prenom TPO	numzeo 64635463645.0	ne le 1	AZERTYUIOP	AZERTYUIOP
+nom ZEBRA	prenom AZUR	numzeo 5346546474.0	ne le 1	AZERTYUIOP	AZERTYUIOP
+nom:TRTEY,	prenom:TREYR,	numero:5774765585.0,	ne le:1,
+nom:BYRON,	prenom:VOLDIGOAD,	numero:6.246725756752466e+16,	ne le:7,	Mot de passe:AZERTYUIOP
+nom:REEY,	prenom:RZREYT,	numero:354565786896.0,	ne le:6,	a:Juillet,	le:2004,	Mot de passe:AZERTYUIOP
+nom:AZRETRY, prenom:QSDFG, numero:12345678.0, né le:3, à:Mars, le:2026, Mot de passe:AZERTYUIOP
